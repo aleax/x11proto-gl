@@ -1,8 +1,13 @@
 x11proto-gl (1.4.7-1) experimental; urgency=low
 
   * New upstream release
+  * Move debhelper from build-depends-indep to build-depends because we use
+    dh_clean in the clean target of debian/rules
+  * Bump standards version to 3.7.2.0
+  * Run dh_install with --list-missing
+  * Bump debhelper compat to 5
 
- -- David Nusinow <dnusinow@debian.org>  Sat,  1 Jul 2006 20:19:24 -0400
+ -- David Nusinow <dnusinow@debian.org>  Sat,  1 Jul 2006 22:40:35 -0400
 
 x11proto-gl (1.4.6-2) unstable; urgency=low
 
