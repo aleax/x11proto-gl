@@ -3,8 +3,8 @@ Section: x11
 Priority: optional
 Maintainer: Debian X Strike Force <debian-x@lists.debian.org>
 Uploaders: David Nusinow <dnusinow@debian.org>, Branden Robinson <branden@debian.org>, Fabio M. Di Nitto <fabbione@fabbione.net>
-Build-Depends-Indep: debhelper (>= 4.0.0)
-Standards-Version: 3.6.1.0
+Build-Depends: debhelper (>= 5.0.0)
+Standards-Version: 3.7.2
 
 Package: x11proto-gl-dev
 Architecture: all
