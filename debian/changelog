@@ -1,8 +1,8 @@
-x11proto-gl (1.4.8-1) UNRELEASED; urgency=low
+x11proto-gl (1.4.8-1) unstable; urgency=low
 
   * New upstream release
 
- -- David Nusinow <dnusinow@debian.org>  Sun, 24 Sep 2006 16:58:29 -0400
+ -- David Nusinow <dnusinow@debian.org>  Mon, 25 Sep 2006 21:25:16 -0400
 
 x11proto-gl (1.4.7-2) UNRELEASED; urgency=low
 
