@@ -1,3 +1,6 @@
+This package was downloaded from
+http://xorg.freedesktop.org/releases/individual/proto/
+
 glcore.h, glxmd.h, glxproto.h, glxtokens.h are copyright of:
 The headers in this module are copyright 1991-1999 Silicon Graphics, Inc.
 

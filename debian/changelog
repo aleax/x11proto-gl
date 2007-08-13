@@ -1,3 +1,12 @@
+x11proto-gl (1.4.8-2) UNRELEASED; urgency=low
+
+  * Update the long description.
+  * Add URL in debian/copyright.
+  * Add XS-Vcs-* to debian/control.
+  * Remove Fabio from Uploaders, with his permission.
+
+ -- Brice Goglin <bgoglin@debian.org>  Tue, 14 Aug 2007 00:09:31 +0200
+
 x11proto-gl (1.4.8-1) unstable; urgency=low
 
   * New upstream release
