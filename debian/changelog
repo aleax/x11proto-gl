@@ -1,4 +1,4 @@
-x11proto-gl (1.4.9-0.1) unstable; urgency=low
+x11proto-gl (1.4.9-1) unstable; urgency=low
 
   [ Brice Goglin ]
   * Update the long description.
