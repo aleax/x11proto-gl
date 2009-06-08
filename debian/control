@@ -3,7 +3,10 @@ Section: x11
 Priority: optional
 Maintainer: Debian X Strike Force <debian-x@lists.debian.org>
 Uploaders: David Nusinow <dnusinow@debian.org>, Branden Robinson <branden@debian.org>
-Build-Depends: debhelper (>= 5.0.0)
+Build-Depends:
+ debhelper (>= 5.0.0),
+ automake,
+ xutils-dev (>= 1:7.4+4)
 Standards-Version: 3.7.2
 XS-Vcs-Git: git://git.debian.org/git/pkg-xorg/proto/x11proto-gl
 XS-Vcs-Browser: http://git.debian.org/?p=pkg-xorg/proto/x11proto-gl.git

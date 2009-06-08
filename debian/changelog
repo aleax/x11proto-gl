@@ -3,6 +3,7 @@ x11proto-gl (1.4.10-1) UNRELEASED; urgency=low
   * All the code under the GLX Public License has been made available under
     the SGI Free Software License B, so remove GLXPL from debian/copyright.
   * New upstream release.
+  * Run autoreconf on build.
 
  -- Julien Cristau <jcristau@debian.org>  Fri, 16 Jan 2009 08:34:55 +0100
 
