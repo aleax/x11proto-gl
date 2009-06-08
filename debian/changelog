@@ -4,6 +4,7 @@ x11proto-gl (1.4.10-1) UNRELEASED; urgency=low
     the SGI Free Software License B, so remove GLXPL from debian/copyright.
   * New upstream release.
   * Run autoreconf on build.
+  * Drop XS- prefix from Vcs fields in debian/control.
 
  -- Julien Cristau <jcristau@debian.org>  Fri, 16 Jan 2009 08:34:55 +0100
 
