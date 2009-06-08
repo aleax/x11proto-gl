@@ -6,6 +6,7 @@ x11proto-gl (1.4.10-1) UNRELEASED; urgency=low
   * Run autoreconf on build.
   * Drop XS- prefix from Vcs fields in debian/control.
   * Add README.source, bump Standards-Version to 3.8.1.
+  * Remove Branden from Uploaders.
 
  -- Julien Cristau <jcristau@debian.org>  Fri, 16 Jan 2009 08:34:55 +0100
 
