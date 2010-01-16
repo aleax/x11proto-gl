@@ -1,3 +1,10 @@
+x11proto-gl (1.4.10-2) UNRELEASED; urgency=low
+
+  * Rename the build directory to not include DEB_BUILD_GNU_TYPE for no
+    good reason.  Thanks, Colin Watson!
+
+ -- Julien Cristau <jcristau@debian.org>  Sat, 16 Jan 2010 16:47:50 +0000
+
 x11proto-gl (1.4.10-1) unstable; urgency=low
 
   * All the code under the GLX Public License has been made available under
