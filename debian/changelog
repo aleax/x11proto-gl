@@ -1,3 +1,9 @@
+x11proto-gl (1.4.12-1) UNRELEASED; urgency=low
+
+  * New upstream release.
+
+ -- Robert Hooker <sarvatt@ubuntu.com>  Tue, 02 Nov 2010 18:38:02 -0400
+
 x11proto-gl (1.4.11-1) unstable; urgency=low
 
   [ Julien Cristau ]
