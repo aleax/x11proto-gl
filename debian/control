@@ -6,7 +6,8 @@ Uploaders: David Nusinow <dnusinow@debian.org>
 Build-Depends:
  debhelper (>= 5.0.0),
  automake,
- xutils-dev (>= 1:7.5~1)
+ xutils-dev (>= 1:7.5~1),
+ pkg-config,
 Standards-Version: 3.8.1
 Vcs-Git: git://git.debian.org/git/pkg-xorg/proto/x11proto-gl
 Vcs-Browser: http://git.debian.org/?p=pkg-xorg/proto/x11proto-gl.git

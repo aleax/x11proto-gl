@@ -5,6 +5,7 @@ x11proto-gl (1.4.12-1) UNRELEASED; urgency=low
 
   [ Cyril Brulebois ]
   * Remove ChangeLog from .gitignore, and update it.
+  * Add pkg-config build-dep.
 
  -- Robert Hooker <sarvatt@ubuntu.com>  Tue, 02 Nov 2010 18:38:02 -0400
 
