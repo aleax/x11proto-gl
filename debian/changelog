@@ -9,6 +9,7 @@ x11proto-gl (1.4.14-1) UNRELEASED; urgency=low
   * Update Uploaders list. Thanks, David!
   * Wrap Depends/Replaces.
   * Drop unnecessary Pre-Depends on x11-common.
+  * Bump Standards-Version to 3.9.2 (no changes).
 
  -- Cyril Brulebois <kibi@debian.org>  Thu, 30 Jun 2011 00:55:09 +0200
 

@@ -9,7 +9,7 @@ Build-Depends:
  quilt,
  xutils-dev (>= 1:7.5~1),
  pkg-config,
-Standards-Version: 3.8.1
+Standards-Version: 3.9.2
 Vcs-Git: git://git.debian.org/git/pkg-xorg/proto/x11proto-gl
 Vcs-Browser: http://git.debian.org/?p=pkg-xorg/proto/x11proto-gl.git
 
