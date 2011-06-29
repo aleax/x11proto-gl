@@ -7,6 +7,7 @@ x11proto-gl (1.4.14-1) UNRELEASED; urgency=low
     - Add placeholder quilt series file.
   * Remove xsfbs accordingly.
   * Update Uploaders list. Thanks, David!
+  * Wrap Depends/Replaces.
 
  -- Cyril Brulebois <kibi@debian.org>  Thu, 30 Jun 2011 00:55:09 +0200
 
