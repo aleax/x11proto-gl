@@ -1,4 +1,4 @@
-x11proto-gl (1.4.14-1) UNRELEASED; urgency=low
+x11proto-gl (1.4.14-1) unstable; urgency=low
 
   * New upstream release.
   * Switch to dh:
@@ -11,7 +11,7 @@ x11proto-gl (1.4.14-1) UNRELEASED; urgency=low
   * Drop unnecessary Pre-Depends on x11-common.
   * Bump Standards-Version to 3.9.2 (no changes).
 
- -- Cyril Brulebois <kibi@debian.org>  Thu, 30 Jun 2011 00:55:09 +0200
+ -- Cyril Brulebois <kibi@debian.org>  Thu, 30 Jun 2011 01:03:26 +0200
 
 x11proto-gl (1.4.12-1) unstable; urgency=low
 
