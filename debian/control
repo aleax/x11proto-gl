@@ -20,6 +20,7 @@ Depends:
  ${misc:Depends},
 Replaces:
  xlibmesa-gl-dev,
+Multi-Arch: foreign
 Description: X11 OpenGL extension wire protocol
  This package provides development headers describing the wire protocol
  for OpenGL-related extensions, used to enable the rendering of

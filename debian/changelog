@@ -1,3 +1,9 @@
+x11proto-gl (1.4.14-2) UNRELEASED; urgency=low
+
+  * Mark x11proto-gl-dev Multi-Arch: foreign.
+
+ -- Steve Langasek <vorlon@debian.org>  Sat, 02 Jul 2011 01:49:37 +0100
+
 x11proto-gl (1.4.14-1) unstable; urgency=low
 
   * New upstream release.
