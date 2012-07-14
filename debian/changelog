@@ -1,8 +1,9 @@
-x11proto-gl (1.4.16-1) UNRELEASED; urgency=low
+x11proto-gl (1.4.16-1) experimental; urgency=low
 
+  [ Maarten Lankhorst ]
   * New upstream release.
 
- -- Maarten Lankhorst <maarten.lankhorst@canonical.com>  Thu, 12 Jul 2012 15:11:04 +0200
+ -- Julien Cristau <jcristau@debian.org>  Sat, 14 Jul 2012 15:49:10 +0200
 
 x11proto-gl (1.4.15-1) unstable; urgency=low
 
